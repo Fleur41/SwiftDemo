@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "912982936231",
+    "project_id": "swiftsend-demo",
+    "storage_bucket": "swiftsend-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912982936231:android:b164b210dc126f933d6982",
+        "android_client_info": {
+          "package_name": "com.okumu.swiftdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912982936231-jvarq1h84390tuj2j99bg46s0mis5tpv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.okumu.swiftdemo",
+            "certificate_hash": "397c85dacd92f953fb863e5e3b6e417b8a561557"
+          }
+        },
+        {
+          "client_id": "912982936231-0p150f9n6ca1oaq9go3h59c6vmeqchni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiIqxe1ZBhSdL7CPZHvi8HlsfuIymkUoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912982936231-0p150f9n6ca1oaq9go3h59c6vmeqchni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
